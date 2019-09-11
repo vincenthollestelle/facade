@@ -1,2 +1,2 @@
 # HomeCinema
-Hoe zet je dit verdomde ding aan?
+Hoe zet je dit ding aan?
