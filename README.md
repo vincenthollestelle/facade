@@ -58,4 +58,4 @@ When  we're ready listening music:
  
 ## Acknowledgements
 
-The code of this app is taken from  Head First Design Patterns A Brain-friendly Guide. We thank the authors Eric Freeman Elisabeth Robson for this.    
+The code of this assignment is taken from  Head First Design Patterns A Brain-friendly Guide. We thank the authors Eric Freeman Elisabeth Robson for this.    
