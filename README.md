@@ -52,3 +52,10 @@ To listen to the radio we should:
 When  we're ready listening music:
   1) turn of the tuner
   2) turn off the amplifier
+  
+  
+  
+ 
+## Acknowledgements
+
+The code of this app is taken from  Head First Design Patterns A Brain-friendly Guide. We thank the authors Eric Freeman Elisabeth Robson for this.    
