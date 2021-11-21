@@ -24,6 +24,11 @@ public class CdPlayer {
         System.out.println(description + " eject");
     }
 
+    public void insert() {
+        title = null;
+        System.out.println(description + " insert");
+    }
+
     public void play(String title) {
         this.title = title;
         currentTrack = 0;

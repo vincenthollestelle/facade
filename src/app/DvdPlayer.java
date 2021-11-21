@@ -24,6 +24,11 @@ public class DvdPlayer {
         System.out.println(description + " eject");
     }
 
+    public void insert() {
+        movie = null;
+        System.out.println(description + " insert");
+    }
+
     public void play(String movie) {
         this.movie = movie;
         currentTrack = 0;
